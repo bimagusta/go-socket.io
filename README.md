@@ -15,13 +15,13 @@ It is compatible with latest implementation of socket.io in node.js, and support
 Install the package with:
 
 ```bash
-go get github.com/googollee/go-socket.io
+go get github.com/bimagusta/go-socket.io
 ```
 
 Import it with:
 
 ```go
-import "github.com/googollee/go-socket.io"
+import "github.com/bimagusta/go-socket.io"
 ```
 
 and use `socketio` as the package name inside the code.
@@ -37,7 +37,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/googollee/go-socket.io"
+	"github.com/bimagusta/go-socket.io"
 )
 
 func main() {
