@@ -114,7 +114,3 @@ so.Emit("some:event", dataForClient, func (so socketio.Socket, data string) {
 	log.Println("Client ACK with data: ", data)
 })
 ```
-
-## License
-
-The 3-clause BSD License  - see LICENSE for more details
