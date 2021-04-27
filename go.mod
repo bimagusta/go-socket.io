@@ -1,6 +1,8 @@
-module github.com/iam-bgst/go-socket.io
+module go-socket.io
+
+go 1.15
 
 require (
-	github.com/iam-bgst/go-engine.io v0.0.0-20210427034130-71b9bf91330a
-	github.com/smartystreets/goconvey v0.0.0-20181108003508-044398e4856c
+	github.com/gorilla/websocket v1.4.2 // indirect
+	github.com/iam-bgst/go-engine.io v0.0.0-20210427040320-6811525edd5d // indirect
 )

@@ -8,13 +8,13 @@
 Install the package with:
 
 ```bash
-go get github.com/bimagusta/go-socket.io
+go get github.com/iam-bgst/go-socket.io
 ```
 
 Import it with:
 
 ```go
-import "github.com/bimagusta/go-socket.io"
+import "github.com/iam-bgst/go-socket.io"
 ```
 
 and use `socketio` as the package name inside the code.
@@ -30,7 +30,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bimagusta/go-socket.io"
+	"github.com/iam-bgst/go-socket.io"
 )
 
 func main() {

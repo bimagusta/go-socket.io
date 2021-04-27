@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	engineio "github.com/bimagusta/go-engine.io"
+	engineio "github.com/iam-bgst/go-engine.io"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
