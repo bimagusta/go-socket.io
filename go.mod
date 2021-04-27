@@ -1,4 +1,4 @@
-module github.com/bimagusta/go-socket.io
+module github.com/iam-bgst/go-socket.io
 
 require (
 	github.com/iam-bgst/go-engine.io v0.0.0-20210427025257-fbb3ff0517d9
